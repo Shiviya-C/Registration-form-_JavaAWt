@@ -13,7 +13,7 @@ public class swing {
         t1.setBounds(500,180,250,20);
 
         JLabel l3=new JLabel("password");
-        l3.setBounds(400,210,55,20);
+        l3.setBounds(400,210,60,20);
         JTextField t2 = new JTextField();
         t2.setBounds(500,210,250,20);
 
